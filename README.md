@@ -2,8 +2,9 @@
   <img src="src/assets/images/web8.png" alt="Project Screenshot" />
 </p>
 
-<h1 align="center">🚀 My Super Cool Website 🚀</h1>
-
+<p align="center">
+  🌟 Stylish web brilliance awaits! 🌟
+</p>
 <p align="center">
   A stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.
 </p>
