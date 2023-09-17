@@ -14,8 +14,9 @@
   <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Optimized User Experience</strong> |
   <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Smooth Animations</strong>
+  <strong>Dynamic Interactions</strong>
 </p>
+
 
 
 <p align="center">
