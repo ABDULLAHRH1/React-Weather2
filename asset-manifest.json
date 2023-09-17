@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Weather2/static/css/main.33c6e664.css",
+    "main.js": "/React-Weather2/static/js/main.5077b822.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/React-Weather2/static/js/787.3bf0dcc2.chunk.js",
+    "static/media/IBMPlexSansArabic-Medium.ttf": "/React-Weather2/static/media/IBMPlexSansArabic-Medium.d11e0289157d639b94b6.ttf",
+    "static/media/IBMPlexSansArabic-Light.ttf": "/React-Weather2/static/media/IBMPlexSansArabic-Light.6a59d58ae4cfca8c5bec.ttf",
+    "static/media/IBMPlexSansArabic-Regular.ttf": "/React-Weather2/static/media/IBMPlexSansArabic-Regular.c44430ea2cca5f882c25.ttf",
+    "static/media/logo.svg": "/React-Weather2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Weather2/index.html",
+    "static/media/getFetch.cjs": "/React-Weather2/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.33c6e664.css.map": "/React-Weather2/static/css/main.33c6e664.css.map",
+    "main.5077b822.js.map": "/React-Weather2/static/js/main.5077b822.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/React-Weather2/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33c6e664.css",
+    "static/js/main.5077b822.js"
+  ]
+}
