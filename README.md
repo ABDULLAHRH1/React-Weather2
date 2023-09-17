@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/images/web8.png" alt="Project Screenshot" />
+  <img src="public/web9.png" alt="Project Screenshot" />
 </p>
 
 <p align="center">
