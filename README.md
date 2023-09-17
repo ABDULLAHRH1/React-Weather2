@@ -12,10 +12,11 @@
   <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Clean Design</strong> |
   <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Responsive Layout</strong> |
+  <strong>Optimized User Experience</strong> |
   <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Smooth Animations</strong>
 </p>
+
 
 <p align="center">
   <img src="https://img.icons8.com/color/80/000000/html-5--v1.png" alt="HTML5" />
