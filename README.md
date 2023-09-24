@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
-  ✨ Clean Design | 📱 Responsive Layout | 💫 Smooth Animations
+🎨 Unique Visuals | 🌐 Seamless Navigation | 🚀 Fast Performance
 </p>
 
 
